@@ -15,3 +15,4 @@ FDPF;
 Broyden;
 FixedPoint;
 Iwamoto;
+SOR;
