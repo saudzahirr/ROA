@@ -16,3 +16,4 @@ Broyden;
 FixedPoint;
 Iwamoto;
 SOR;
+Hybrid;
