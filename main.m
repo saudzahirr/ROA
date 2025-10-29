@@ -1,6 +1,6 @@
 %% Global Configuration
 global addTitle;
-addTitle = false;
+addTitle = true;
 
 solvability;
 

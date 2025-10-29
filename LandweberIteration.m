@@ -1,5 +1,3 @@
-clear all; clc; format long;
-
 global addTitle;
 
 %% -------------------------------

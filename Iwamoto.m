@@ -1,5 +1,3 @@
-clear all; clc; format long;
-
 global addTitle;
 
 %% -------------------------------
@@ -141,7 +139,7 @@ colormap([0 0 0; jet(max_iter)])
 caxis([-1 max_iter])
 colorbar
 xlabel('\theta_2 [rad]')
-ylabel('V_2 [pu]')
+ylabel('v_2 [pu]')
 if addTitle
     title('Region of Attraction of Iwamoto Method')
 end
