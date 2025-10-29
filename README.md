@@ -1,7 +1,7 @@
 # ROA
 Power Flow Region of Attraction
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17477364.svg)](https://doi.org/10.5281/zenodo.17477364)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17477506.svg)](https://doi.org/10.5281/zenodo.17477506)
 
 ---
 
@@ -9,7 +9,7 @@ Power Flow Region of Attraction
 
 If you use this software in your research, please cite it as follows:
 
-> **Zahir, Muhammad Saud.** (2025). *saudzahirr/ROA: v1.0.0 (Version 1.0.0)* [Computer software]. **Zenodo.** [https://doi.org/10.5281/zenodo.17477364](https://doi.org/10.5281/zenodo.17477364)
+> **Zahir, Muhammad Saud.** (2025). *saudzahirr/ROA: v1.0.0 (Version 1.0.0)* [Computer software]. **Zenodo.** [https://doi.org/10.5281/zenodo.17477506](https://doi.org/10.5281/zenodo.17477506)
 
 ### 📚 BibTeX
 
@@ -19,6 +19,6 @@ If you use this software in your research, please cite it as follows:
   title        = {saudzahirr/ROA: v1.0.0 (Version 1.0.0)},
   year         = {2025},
   publisher    = {Zenodo},
-  doi          = {10.5281/zenodo.17477364},
-  url          = {https://doi.org/10.5281/zenodo.17477364}
+  doi          = {10.5281/zenodo.17477506},
+  url          = {https://doi.org/10.5281/zenodo.17477506}
 }
