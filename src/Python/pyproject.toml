@@ -1,0 +1,29 @@
+[project]
+name = "roapf"
+version = "0.1.0"
+description = "Region of attraction and hybrid Newton-Raphson / Landweber power-flow solvers"
+readme = "README.md"
+authors = [
+    { name = "Saud Zahir", email = "saud.zahir@colostate.edu" }
+]
+requires-python = ">=3.13"
+dependencies = [
+    "matplotlib>=3.11.2",
+    "networkx>=3.7",
+    "numpy>=2.5.4",
+    "pypower>=5.1.21",
+    "scipy>=1.18.1",
+]
+
+[project.scripts]
+roapf = "roapf.cli:main"
+
+[build-system]
+requires = ["uv_build>=0.12.16,<0.13.0"]
+build-backend = "uv_build"
+
+[dependency-groups]
+dev = [
+    "pytest>=9.2.0",
+    "ruff>=0.17.5",
+]

@@ -34,3 +34,15 @@ codegen/
 
 # Cloud based storage dotfile
 .MATLABDriveTag
+
+# Generated maps and logs
+*-RegionOfAttraction*.png
+*.log
+/figures/
+
+# Python
+__pycache__/
+*.py[oc]
+.venv/
+.pytest_cache/
+.ruff_cache/
