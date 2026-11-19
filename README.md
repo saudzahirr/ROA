@@ -59,17 +59,17 @@ See [`src/Python/README.md`](src/Python/README.md).
 
 If you use this software in your research, please cite it as follows:
 
-> **Zahir, Muhammad Saud.** (2025). *saudzahirr/ROA: v1.0.0 (Version 1.0.0)* [Computer software]. **Zenodo.** [https://doi.org/10.5281/zenodo.17477506](https://doi.org/10.5281/zenodo.17477506)
+> **Zahir, Muhammad Saud.** (2026). *saudzahirr/ROA: v2.0.0 (Version 2.0.0)* [Computer software]. **Zenodo.** [https://doi.org/10.5281/zenodo.24382341](https://doi.org/10.5281/zenodo.24382341)
 
 ### BibTeX
 
 ```bibtex
-@software{zahir_roa_2025,
+@software{zahir_roa_2026,
   author       = {Muhammad Saud Zahir},
-  title        = {saudzahirr/ROA: v1.0.0 (Version 1.0.0)},
-  year         = {2025},
+  title        = {saudzahirr/ROA: v2.0.0 (Version 2.0.0)},
+  year         = {2026},
   publisher    = {Zenodo},
-  doi          = {10.5281/zenodo.17477506},
-  url          = {https://doi.org/10.5281/zenodo.17477506}
+  doi          = {10.5281/zenodo.24382341},
+  url          = {https://doi.org/10.5281/zenodo.24382341}
 }
 ```
