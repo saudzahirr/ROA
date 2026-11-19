@@ -1,7 +1,7 @@
 # ROA
 Power Flow Region of Attraction
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17477506.svg)](https://doi.org/10.5281/zenodo.17477506)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24382341.svg)](https://zenodo.org/records/24382341)
 
 Region-of-attraction analysis of power flow methods, and a guarded
 Newton-Landweber method that is built on it.
